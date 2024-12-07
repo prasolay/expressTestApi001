@@ -1,3 +1,7 @@
+## 專案目的
+使用express+typrscript建立簡單的api伺服器範例
+
+
 ## 參考網頁
 https://medium.com/@abdeljalil-salhi/typescript-and-express-building-robust-apis-81aef124d405
 
